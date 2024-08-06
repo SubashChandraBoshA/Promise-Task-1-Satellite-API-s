@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+    background-color: aqua;
+    padding-top: 10px;
+    font-style: italic;
+    
+
+}
+
+.satellite{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    margin:20px;
+   
+}
+.card{
+    padding:15px;
+    background-image: linear-gradient(3deg, rgb(249, 237, 110),rgb(123, 223, 232));
+    box-shadow: 1px 1px 1px 1px;
+    
+}
+
+.country{
+    text-align: center;
+    box-shadow: 1px 1px 1px ;
+   
+}
+ .id{
+    padding-top: 10px;
+ }
+
+    
